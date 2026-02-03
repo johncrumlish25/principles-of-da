@@ -4,4 +4,4 @@ This is a repository for the module Principles of Data Analytics
 
 ## Links
 
-https://atu.ie
+[ATU Website](https://atu.ie)
