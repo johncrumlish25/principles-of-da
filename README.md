@@ -1,7 +1,8 @@
-# Principles of Data Analytics
+# Principles of Data Analytics - Assessment
 
-This is a repository for the module Principles of Data Analytics
+This is a repository containing my assessment work for the module 'Principles of Data Analytics' delievered by [ATU](https://atu.ie)
 
-## Links
-
-[ATU Website](https://atu.ie)
+## Content
+1.
+2.
+3.
