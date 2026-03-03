@@ -6,3 +6,8 @@ This is a repository containing my assessment work for the module 'Principles of
 1.
 2.
 3.
+
+### References
+[Pandas](https://pandas.pydata.org/)
+[NumPy](https://numpy.org/doc/stable/)
+[Matplotlib](https://matplotlib.org/stable/)
