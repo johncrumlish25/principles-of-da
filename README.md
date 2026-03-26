@@ -1,4 +1,4 @@
-# Principles of Data Analytics - Assessment
+# Principles of Data Analytics - Penguin Dataset Analysis
 
 This is a repository containing my assessment work for the module 'Principles of Data Analytics' delievered by [ATU](https://atu.ie).
 
