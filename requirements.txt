@@ -1,28 +1,14 @@
-# Interactive Python shell.
-ipython
-# Jupyter notebook/lab support.
+# Jupyter Notebook Support
 ipykernel
-# Jupyter lab.
-jupyterlab
-# Jupyter notebook.
+
+# Jupyter Notebook.
 notebook
-# Numerical arrays.
+
+# Numerical Arrays
 numpy
-# Data Frames.
+
+# Data Frames
 pandas
-# Scientific computing.
-scipy
-# Statistical modeling.
-statsmodels
-# Download financial market data.
-yfinance
-# Plotting.
+
+# Plotting
 matplotlib
-# Statistical data visualization.
-seaborn
-# Machine learning.
-scikit-learn
-# Symbolic mathematics.
-sympy
-# Testing.
-pytest
