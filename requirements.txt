@@ -1,7 +1,7 @@
 # Jupyter Notebook Support
 ipykernel
 
-# Jupyter Notebook.
+# Jupyter Notebook
 notebook
 
 # Numerical Arrays
