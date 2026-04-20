@@ -17,6 +17,9 @@ git clone https://github.com/johncrumlish25/principles-of-da.git
 
 ## How to Run the Code in Project
 1. Ensure Python 3 is installed on your system.
-2. Install the required libraries: numpy, pandas, and matplotlib.
-3. Open the notebook file (analysis.ipynb).
+2. Install the required libraries: pip install -r requirements.txt
+3. Open the notebook file (problems.ipynb).
 4. Run the cells in order to view the analysis and results.
+
+## Data
+The dataset is loaded directly from an online source, so no local data files are stored in this repository.
